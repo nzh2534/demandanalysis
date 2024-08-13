@@ -1,6 +1,6 @@
 # Demand Analysis
 
-Custom heatmap visualizations made with Python, Jinja2, Javascript, HTML, and CSS. 
+Custom heatmap visualizations made with Python, Jinja2, Javascript, HTML, and CSS: https://nzh2534.github.io/demandanalysis/
 
 Click on heatmaps to drilldown/up levels (showing organization wide objective at the 1, 1.1, or 1.1.1 levels). Click on one of the buttons in the navigation bar to see demand over a quarter and by various Departments (abbreviated Dept) and ordered on a color gradient showing Departments with High (Green) or Low (Red) capacity. 
 
