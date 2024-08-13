@@ -8,7 +8,8 @@ Click on heatmaps to drilldown/up levels (showing organization wide objective at
 Drilldown to the 1.1.1 level on the quarter views and scroll over any of the rows to see the objective's description and owner name:
 
 ![Overlay](https://github.com/nzh2534/demandanalysis/blob/main/overlay.png)
-# 
+
+
 # Capacity Analysis
 (See seperate repo for HTML/CSS/JS generate by Python/Jinja2: https://github.com/nzh2534/capacityanalysis)
 
